@@ -18,4 +18,4 @@ It keeps running until the user wants to run .
 ### Developed By
  GitHub : [Kumaravi8] (https://github.com/Kumaravi8)
  ## INTERNSHIP TASK ##
- Submitted as part of Java full stack Internship - Elevated labs
+ Submitted as part of Java full stack Internship - Elevate labs
